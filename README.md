@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l0gnes&" alt="l0gnes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l0gnes&theme=onedark" alt="l0gnes" /></p>
