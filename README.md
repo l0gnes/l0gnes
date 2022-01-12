@@ -9,7 +9,11 @@
   
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=l0gnes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=l0gnes&theme=onedark" />
+</p>
+
+
 
 - 🔭 I’m currently working on [a discord bot!](https://github.com/shydiscord/shy)
 
