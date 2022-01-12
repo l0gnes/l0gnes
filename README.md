@@ -14,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=l0gnes&theme=onedark" />
 </p>
 
-| 🔭 | I’m currently working [the shy project!](https://github.com/shydiscord) |
+| 🔭 | I’m currently working on [the shy project!](https://github.com/shydiscord) |
 | :---: | :--- |
 | 🌱 | I’m currently learning **Java & Web Development** |
 | 💬 | My discord is **Lognes#0240**! |
