@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lognes!</h1>
 <h3 align="center">A floof trying to get a Bachelor of Computer Science degree!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l0gnes&label=Profile%20views&color=0e75b6&style=flat" alt="l0gnes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=l0gnes&label=Profile%20views&color=0e75b6&style=flat" alt="l0gnes" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=l0gnes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
