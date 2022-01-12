@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lognes!</h1>
 <h3 align="center">A floof trying to get a Bachelor of Computer Science degree!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=l0gnes&label=Profile%20views&color=0e75b6&style=flat" alt="l0gnes" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=l0gnes&label=Profile%20views&color=0e75b6&style=flat" alt="l0gnes" />
+  <img alt="User Age" src="https://img.shields.io/badge/Age-18-blue" />
+  <img alt="User Home" src="https://img.shields.io/badge/From-Canada-red" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/l0gnes?style=social" />
+  
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=l0gnes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
