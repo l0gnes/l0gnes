@@ -16,6 +16,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=l0gnes&theme=onedark"/>
 </p>
 
+```
+🌿 Personal Goals
+✓ 100+ Wakatime Hours
+☐ 250+ Wakatime Hours
+✓ 10+ Day Commit Streak
+☐ 30+ Day Commit Streak
+```
+
 <hr>
 
 <p align="center">
