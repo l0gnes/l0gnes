@@ -20,10 +20,10 @@
 🌿 Personal Goals
 ✓ 100+ Wakatime Hours
 ☐ 250+ Wakatime Hours
-✓ 10+ Day Commit Streak
-☐ 30+ Day Commit Streak
-☐ 1,000+ Total Commits
-☐ 2,500+ Total Commits
+✓ 10+ Day Contribution Streak
+☐ 30+ Day Contribution Streak
+☐ 1,000+ Total Contributions
+☐ 2,500+ Total Contributions
 ```
 
 <hr>
