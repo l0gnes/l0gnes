@@ -22,6 +22,8 @@
 ☐ 250+ Wakatime Hours
 ✓ 10+ Day Commit Streak
 ☐ 30+ Day Commit Streak
+☐ 1,000+ Total Commits
+☐ 2,500+ Total Commits
 ```
 
 <hr>
