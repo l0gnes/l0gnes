@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=761057223362347008"/>
-  <img src="https://discord-readme-badge.vercel.app/api?id=852745308155936798"/>
 </p>
   
 <hr>
