@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Lognes!</h1>
-<h3 align="center">I'm trying to get a Bachelor of Computer Science degree!</h3>
+<h3 align="center">Soon to be a university drop-out probably</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=l0gnes&label=Profile%20views&color=0e75b6&style=flat" alt="l0gnes" />
