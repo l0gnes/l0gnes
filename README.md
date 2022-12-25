@@ -19,7 +19,7 @@
 ```
 🌿 Personal Goals
 ✓ 100+ Wakatime Hours
-☐ 250+ Wakatime Hours
+✓ 250+ Wakatime Hours
 ✓ 10+ Day Contribution Streak
 ☐ 30+ Day Contribution Streak (Highest: 25)
 ☐ 1,000+ Total Contributions
