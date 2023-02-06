@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=l0gnes&label=Profile%20views&color=0e75b6&style=flat" alt="l0gnes" />
-  <img alt="User Age" src="https://img.shields.io/badge/Age-18-blue" />
+  <img alt="User Age" src="https://img.shields.io/badge/Age-19-blue" />
   <img alt="User Home" src="https://img.shields.io/badge/From-Canada-red" />
   <img src="https://wakatime.com/badge/user/863c0ea9-1f76-4628-9b82-b32d093ded49.svg" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/l0gnes?style=social" />
