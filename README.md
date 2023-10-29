@@ -54,4 +54,4 @@
 
 <br/>
 
-<a href="https://wakatime.com/@863c0ea9-1f76-4628-9b82-b32d093ded49"><img src="https://wakatime.com/badge/user/863c0ea9-1f76-4628-9b82-b32d093ded49.svg" alt="Total time coded since Sep 12 2021" /></a>
+<a href="https://wakatime.com/@863c0ea9-1f76-4628-9b82-b32d093ded49"><img src="https://wakatime.com/badge/user/863c0ea9-1f76-4628-9b82-b32d093ded49.svg?style=for-the-badge" alt="Total time coded since Sep 12 2021" /></a>
