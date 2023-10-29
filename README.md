@@ -51,23 +51,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord:%20l0gnes&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="200" src="https://im.idiva.com/content/2016/Feb/3make_timetable.gif"  />
-
-###
-
-<h3 align="left">🐈 Who am I?</h3>
-
-###
-
-<p align="left">I'm a Canadian Software Developer and University Student in my third year.</p>
-
-###
-
-<p align="left">I also like cats and wizards.</p>
-
-###
