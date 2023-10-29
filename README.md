@@ -51,3 +51,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord:%20l0gnes&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+
+<br/>
+
+<a href="https://wakatime.com/@863c0ea9-1f76-4628-9b82-b32d093ded49"><img src="https://wakatime.com/badge/user/863c0ea9-1f76-4628-9b82-b32d093ded49.svg" alt="Total time coded since Sep 12 2021" /></a>
