@@ -56,12 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/l0gnes/l0gnes/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <img align="left" height="200" src="https://im.idiva.com/content/2016/Feb/3make_timetable.gif"  />
 
 ###
