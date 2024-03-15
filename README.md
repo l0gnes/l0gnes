@@ -4,7 +4,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=l0gnes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l0gnes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=lognes&theme=dracula&langs_count=8&layout=compact&line_height=5"
+    height="150"
+  />
 </div>
 
 ###
@@ -50,8 +53,12 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord:%20l0gnes&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  
+  <a href="https://wakatime.com/@863c0ea9-1f76-4628-9b82-b32d093ded49"><img src="https://wakatime.com/badge/user/863c0ea9-1f76-4628-9b82-b32d093ded49.svg?style=for-the-badge" alt="Total time coded since Sep 12 2021" /></a>
 </div>
 
 <br/>
 
-<a href="https://wakatime.com/@863c0ea9-1f76-4628-9b82-b32d093ded49"><img src="https://wakatime.com/badge/user/863c0ea9-1f76-4628-9b82-b32d093ded49.svg?style=for-the-badge" alt="Total time coded since Sep 12 2021" /></a>
+
+
+
