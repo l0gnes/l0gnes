@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Alex!
 
 - 🪴 Backend Developer @Voithos-Development
-- 🐍 Proficient in Python
+- 🐍 Python Newbie
 
 ## 💚 My Top Languages
 ```
@@ -12,4 +12,4 @@
 5. Java             [........................] 34 hrs 1 min
 ```
 - 💪 Daily Average: `1 hr 28 mins`
-- 🕑 All Time: `1,071 hrs 54 mins`
+- 🕑 All Time: `1,076 hrs 23 mins`
