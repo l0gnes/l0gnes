@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Alex!
 
 - 🪴 Backend Developer @Voithos-Development
-- 🐍 Proficient in Python
+- 🐍 Python Newbie
 
 ## 💚 My Top Languages
 ```{% for lang in top_langs[:5] %}
