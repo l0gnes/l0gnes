@@ -12,4 +12,4 @@
 5. Java             [........................] 34 hrs 1 min
 ```
 - 💪 Daily Average: `1 hr 27 mins`
-- 🕑 All Time: `1,077 hrs 25 mins`
+- 🕑 All Time: `1,077 hrs 52 mins`
