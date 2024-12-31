@@ -8,8 +8,8 @@
 1. Python           [████████████............] 548 hrs 26 mins
 2. Vue.js           [███.....................] 178 hrs 22 mins
 3. YAML             [██......................] 95 hrs 59 mins
-4. JavaScript       [........................] 38 hrs 56 mins
+4. JavaScript       [........................] 39 hrs 13 mins
 5. Java             [........................] 34 hrs 1 min
 ```
 - 💪 Daily Average: `1 hr 27 mins`
-- 🕑 All Time: `1,079 hrs 18 mins`
+- 🕑 All Time: `1,079 hrs 52 mins`
