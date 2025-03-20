@@ -11,5 +11,5 @@
 4. JavaScript       [........................] 39 hrs 42 mins
 5. Java             [........................] 34 hrs 1 min
 ```
-- 💪 Daily Average: `1 hr 26 mins`
-- 🕑 All Time: `1,146 hrs 38 mins`
+- 💪 Daily Average: `1 hr 27 mins`
+- 🕑 All Time: `1,148 hrs 16 mins`
