@@ -12,4 +12,4 @@
 5. JavaScript       [........................] 40 hrs 8 mins
 ```
 - 💪 Daily Average: `1 hr 27 mins`
-- 🕑 All Time: `1,210 hrs 1 min`
+- 🕑 All Time: `1,210 hrs 3 mins`
