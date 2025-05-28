@@ -15,10 +15,10 @@ with open('./template-readme.md', 'r', encoding='utf-8') as readme_in:
 req = requests.get(STATS_URL)
 resp = req.json()
 
-top_langs = filter(
+top_langs = list(filter(
     lambda n: n["name"] not in EXCLUDED_LANGS,
     resp['data']['languages']
-)
+))
 
 # Export compiled readme
 with open("./readme.md", "w+", encoding="utf-8") as readme_out:
