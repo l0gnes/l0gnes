@@ -1,11 +1,15 @@
-# 👋 Hello World, I'm Alex!
+# 🎷🐛 Hello World, I'm Alex!
 
 - 🪴 Backend Developer @Voithos-Development
-- 🐍 Python Newbie
+- 🐍 Proficient in Python
+- 🦀 Currently dabbling in Rust
+- 🛠️ & Building out a Portfolio!
 
 ## 💚 My Top Languages
-```{% for lang in top_langs[:5] %}
-{{ loop.index }}. {{lang['name']}}   {{ ascii_progress_bar(lang['percent'] / 100).rjust(40 - lang['name']|length) }} {{ lang['text']}}{% endfor %}
+```{% for lang in langs %}
+{{ loop.index }}. {{ lang['name'] }} [{{ lang['progressbar_string'] }}] {{ lang['text'] }}{% endfor %}
 ```
 - 💪 Daily Average: `{{ full["human_readable_daily_average"] }}`
 - 🕑 All Time: `{{ full["human_readable_total_including_other_language"] }}`
+
+> [Wakatime](https://wakatime.com/@lognes) | [lognes.dev](https://lognes.dev)
