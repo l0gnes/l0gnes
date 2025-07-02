@@ -10,10 +10,10 @@
 1. Python          [█████████████▒................] 593 hrs 7 mins
 2. Vue.js          [████..........................] 178 hrs 22 mins
 3. YAML            [██............................] 100 hrs 8 mins
-4. Rust            [██............................] 85 hrs 54 mins
+4. Rust            [██............................] 89 hrs 41 mins
 5. JavaScript      [▒.............................] 40 hrs 17 mins
 ```
-- 💪 Daily Average: `1 hr 28 mins`
-- 🕑 All Time: `1,280 hrs 9 mins`
+- 💪 Daily Average: `1 hr 29 mins`
+- 🕑 All Time: `1,284 hrs 7 mins`
 
 > [Wakatime](https://wakatime.com/@lognes) | [lognes.dev](https://lognes.dev)
