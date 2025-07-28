@@ -14,6 +14,6 @@
 5. JavaScript      [▒.............................] 40 hrs 17 mins
 ```
 - 💪 Daily Average: `1 hr 28 mins`
-- 🕑 All Time: `1,307 hrs 7 mins`
+- 🕑 All Time: `1,307 hrs 58 mins`
 
 > [Wakatime](https://wakatime.com/@lognes) | [lognes.dev](https://lognes.dev)
