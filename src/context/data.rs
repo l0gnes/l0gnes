@@ -76,7 +76,7 @@ pub fn wakatime_format_langs(
 
         
         // really cheap way to limit the size
-        if formatted_langs.len() >= 5 {
+        if formatted_langs.len() >= 8 {
             break;
         }
         
