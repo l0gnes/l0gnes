@@ -53,8 +53,8 @@ impl Default for Progressbar {
             min_value: 0.0_f64,
             max_value: 100.0_f64,
 
-            empty_char: '.',
-            shaded_char: '▒',
+            empty_char: '░',
+            shaded_char: '▓',
             full_char: '█',
 
             char_length: 16,

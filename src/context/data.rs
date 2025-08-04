@@ -27,7 +27,7 @@ pub fn get_wakatime_stats(
         "langs", 
         &json_data["data"]["languages"]
             .as_array()
-            .map(|arr| &arr[..arr.len().min(5)])
+            .map(|arr| &arr[..arr.len().min(8)])
     );
 
     // I wanna do some extra stuff to make my life easier so I'm gonna do some string formatting in here
