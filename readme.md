@@ -10,7 +10,7 @@
 7. Java            ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (34 hrs 13 mins)
 8. TypeScript      ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (28 hrs 5 mins)
 ```
-- 💪 Daily Average: `1 hr 28 mins`
-- 🕑 Total since starting uni: `1,326 hrs 11 mins`
+- 💪 Daily Average: `1 hr 27 mins`
+- 🕑 Total since starting uni: `1,326 hrs 23 mins`
 
 > [Wakatime](https://wakatime.com/@lognes) | [lognes.dev](https://lognes.dev)
