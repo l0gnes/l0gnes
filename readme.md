@@ -11,6 +11,6 @@
 8. TypeScript      ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (28 hrs 5 mins)
 ```
 - 💪 Daily Average: `1 hr 27 mins`
-- 🕑 Total since starting uni: `1,326 hrs 23 mins`
+- 🕑 Total since starting uni: `1,326 hrs 32 mins`
 
 > [Wakatime](https://wakatime.com/@lognes) | [lognes.dev](https://lognes.dev)
