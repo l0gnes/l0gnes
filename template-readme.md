@@ -12,7 +12,9 @@
 
 <!--The rest goes down here-->
 
-<div style="margin-left:4rem">
-  this wk: {{ recent_work }}
-</div>
+<p align="center">
+  <div style="max-width:32rem">
+    this wk: {{ recent_work }}
+  </div>
+</p>
 
