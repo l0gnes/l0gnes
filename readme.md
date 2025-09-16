@@ -1,16 +1,18 @@
-# 🎷🐛 Hello World, I'm Alex!
+<h4 align="center">
+    Alex
+</h4>
 
-```
-1. Python          █████████████▓░░░░░░░░░░░░░░░░ (601 hrs 21 mins)
-2. Vue.js          ████░░░░░░░░░░░░░░░░░░░░░░░░░░ (178 hrs 22 mins)
-3. Rust            ██▓░░░░░░░░░░░░░░░░░░░░░░░░░░░ (117 hrs 50 mins)
-4. YAML            ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (101 hrs 25 mins)
-5. JavaScript      ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (40 hrs 17 mins)
-6. Svelte          ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (39 hrs 17 mins)
-7. Java            ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (34 hrs 13 mins)
-8. TypeScript      ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (28 hrs 5 mins)
-```
-- 💪 Daily Average: `1 hr 27 mins`
-- 🕑 Total since starting uni: `1,329 hrs 5 mins`
+<div align="center">
+    <a href="https://wakatime.com/@lognes">wakatime</a>
+    <span>&bull;</span>
+    <a href="https://lognes.dev">lognes.dev</a>
+</div>
 
-> [Wakatime](https://wakatime.com/@lognes) | [lognes.dev](https://lognes.dev)
+<hr style="margin-bottom: 0.5rem;margin-top: 0.5rem;"/>
+
+<!--The rest goes down here-->
+
+<div style="margin-left:4rem">
+  this wk: **Python** `601 hrs 56 mins`,  **Vue.js** `178 hrs 34 mins`,  **Rust** `118 hrs 25 mins`,  **YAML** `101 hrs 31 mins`,  **JavaScript** `40 hrs 18 mins`,  **Svelte** `39 hrs 36 mins`,  **Java** `34 hrs 13 mins` and **TypeScript** `28 hrs 9 mins`
+</div>
+
