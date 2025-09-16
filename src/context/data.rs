@@ -107,7 +107,7 @@ pub fn wakatime_create_recent_work_string(ctx: &mut Context, langs: &Vec<Value>)
         })
         .map(|v| {
             format!(
-                "**{}** `{}`",
+                "<strong>{}</strong> <code>{}</code>",
                 v.get("name").unwrap().as_str().unwrap(),
                 v.get("text").unwrap().as_str().unwrap()
             )
