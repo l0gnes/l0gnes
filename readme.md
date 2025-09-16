@@ -12,7 +12,9 @@
 
 <!--The rest goes down here-->
 
-<div style="margin-left:4rem">
-  this wk: **Python** `601 hrs 56 mins`,  **Vue.js** `178 hrs 34 mins`,  **Rust** `118 hrs 25 mins`,  **YAML** `101 hrs 31 mins`,  **JavaScript** `40 hrs 18 mins`,  **Svelte** `39 hrs 36 mins`,  **Java** `34 hrs 13 mins` and **TypeScript** `28 hrs 9 mins`
-</div>
+<p align="center">
+  <div style="max-width:32rem">
+    this wk: <strong>Python</strong> <code>601 hrs 56 mins</code>,  <strong>Vue.js</strong> <code>178 hrs 34 mins</code>,  <strong>Rust</strong> <code>118 hrs 25 mins</code>,  <strong>YAML</strong> <code>101 hrs 31 mins</code>,  <strong>JavaScript</strong> <code>40 hrs 18 mins</code>,  <strong>Svelte</strong> <code>39 hrs 36 mins</code>,  <strong>Java</strong> <code>34 hrs 13 mins</code> and <strong>TypeScript</strong> <code>28 hrs 9 mins</code>
+  </div>
+</p>
 
