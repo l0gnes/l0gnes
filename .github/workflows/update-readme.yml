@@ -36,6 +36,9 @@ jobs:
 
       - name: Build and run the project to generate the README
         run: cargo run
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5

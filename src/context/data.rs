@@ -7,13 +7,20 @@ use tera::{Context, Function, to_value};
 
 use super::funcs::progressbar::Progressbar;
 
-const WAKATIME_API_URL: &'static str = "https://wakatime.com/api/v1/users/lognes/stats";
+const WAKATIME_API_URL: &'static str = "https://wakatime.com/api/v1/users/lognes/stats/last_7_days";
 
 pub fn get_wakatime_stats(ctx: &mut Context) -> Result<(), Error> {
     // spin up a new reqwest client
     let client = reqwest::blocking::Client::new();
 
-    let json_data: Value = client.get(WAKATIME_API_URL).send()?.json()?;
+    let wakatime_key = std::env::var("WAKATIME_API_KEY").unwrap().to_string();
+    let wakatime_password: Option<String> = None;
+
+    let json_data: Value = client
+        .get(WAKATIME_API_URL)
+        .basic_auth(wakatime_key, wakatime_password)
+        .send()?
+        .json()?;
 
     // we're just gonna insert all of the wakatime data into the template for the lols
     ctx.insert("wakatime", &json_data);
