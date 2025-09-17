@@ -33,6 +33,6 @@ fn main() {
     // use tera to render
     let rendered = tera.render("readme", &context).unwrap();
 
-    // dump our fresh new readme
+    // dump our fresh new readme :)
     let _ = fs::write(OUT_PATH, rendered);
 }
