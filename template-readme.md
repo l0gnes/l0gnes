@@ -14,7 +14,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    this wk: {{ recent_work }}
+    last 7 days: {{ recent_work }}
   </div>
 </p>
 
