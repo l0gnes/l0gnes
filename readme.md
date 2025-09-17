@@ -14,7 +14,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    this wk: <strong>Python</strong> <code>601 hrs 56 mins</code>,  <strong>Vue.js</strong> <code>178 hrs 34 mins</code>,  <strong>Rust</strong> <code>118 hrs 25 mins</code>,  <strong>YAML</strong> <code>101 hrs 31 mins</code>,  <strong>JavaScript</strong> <code>40 hrs 18 mins</code>,  <strong>Svelte</strong> <code>39 hrs 36 mins</code>,  <strong>Java</strong> <code>34 hrs 13 mins</code> and <strong>TypeScript</strong> <code>28 hrs 9 mins</code>
+    last 7 days: <strong>Rust</strong> <code>2 hrs 54 mins</code> and <strong>Python</strong> <code>55 mins</code>
   </div>
 </p>
 
