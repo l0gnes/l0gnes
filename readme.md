@@ -14,7 +14,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Python</strong> <code>1 hr 39 mins</code>,  <strong>hyprlang</strong> <code>29 mins</code>,  <strong>CSS</strong> <code>28 mins</code> and <strong>Bash</strong> <code>21 mins</code>
+    last 7 days: <strong>Python</strong> <code>1 hr 39 mins</code>,  <strong>CSS</strong> <code>28 mins</code> and <strong>Bash</strong> <code>21 mins</code>
   </div>
 </p>
 
