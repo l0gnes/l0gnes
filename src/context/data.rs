@@ -125,7 +125,10 @@ pub fn wakatime_create_recent_work_string(ctx: &mut Context, langs: &Vec<Value>)
 
     let mut rw_str: String;
 
-    if l.len() == 1 {
+    if l.len() == 0 {
+        rw_str = "No recent coding activity :(".to_string();
+    }
+    else if l.len() == 1 {
         rw_str = l[0].to_string();
     } else {
         let last = l
