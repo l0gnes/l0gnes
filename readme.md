@@ -14,7 +14,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Python</strong> <code>1 hr 35 mins</code>
+    last 7 days: <strong>Python</strong> <code>2 hrs 14 mins</code>
   </div>
 </p>
 
