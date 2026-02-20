@@ -14,7 +14,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Python</strong> <code>12 hrs 28 mins</code>,  <strong>YAML</strong> <code>3 hrs 41 mins</code>,  <strong>TypeScript</strong> <code>1 hr 30 mins</code>,  <strong>Markdown</strong> <code>36 mins</code> and <strong>Other</strong> <code>34 mins</code>
+    last 7 days: <strong>Python</strong> <code>10 hrs 44 mins</code>,  <strong>YAML</strong> <code>5 hrs 37 mins</code>,  <strong>TypeScript</strong> <code>2 hrs 37 mins</code>,  <strong>Other</strong> <code>33 mins</code> and <strong>Markdown</strong> <code>25 mins</code>
   </div>
 </p>
 
