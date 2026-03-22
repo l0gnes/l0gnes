@@ -10,7 +10,7 @@
 
 <hr style="margin-bottom: 0.5rem;margin-top: 0.5rem;"/>
 
-<div align="center>
+<div align="center">
     <img src="http://jd.goose.today/images/tiny.gif" alt="jammie-disc" />
 </div>
 
