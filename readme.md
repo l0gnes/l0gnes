@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Python</strong> <code>5 hrs 35 mins</code>,  <strong>Svelte</strong> <code>3 hrs 7 mins</code>,  <strong>YAML</strong> <code>1 hr 18 mins</code> and <strong>TypeScript</strong> <code>42 mins</code>
+    last 7 days: <strong>Python</strong> <code>5 hrs 53 mins</code>,  <strong>Svelte</strong> <code>3 hrs 2 mins</code>,  <strong>YAML</strong> <code>1 hr 18 mins</code> and <strong>TypeScript</strong> <code>44 mins</code>
   </div>
 </p>
 
