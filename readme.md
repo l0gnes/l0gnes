@@ -11,7 +11,7 @@
 <hr style="margin-bottom: 0.5rem;margin-top: 0.5rem;"/>
 
 <div align="center">
-    <img src="http://jd.goose.today/images/tiny.gif?" alt="jammie-disc" />
+    <img src="http://jd.goose.today/now_playing/{boopdev}.gif?theme=gruvbox-light" alt="jammie-disc" />
 </div>
 
 <hr style="margin-bottom: 0.5rem;margin-top: 0.5rem;"/>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Svelte</strong> <code>5 hrs 58 mins</code>,  <strong>YAML</strong> <code>1 hr 51 mins</code> and <strong>Python</strong> <code>1 hr 4 mins</code>
+    last 7 days: <strong>Svelte</strong> <code>5 hrs 58 mins</code> and <strong>YAML</strong> <code>1 hr 9 mins</code>
   </div>
 </p>
 
