@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Dart</strong> <code>5 hrs 14 mins</code>,  <strong>Svelte</strong> <code>1 hr 25 mins</code> and <strong>Python</strong> <code>1 hr 20 mins</code>
+    last 7 days: <strong>Dart</strong> <code>6 hrs 40 mins</code> and <strong>Svelte</strong> <code>1 hr 25 mins</code>
   </div>
 </p>
 
