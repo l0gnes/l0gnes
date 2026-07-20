@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Rust</strong> <code>13 hrs 26 mins</code>
+    last 7 days: <strong>Rust</strong> <code>9 hrs 37 mins</code>
   </div>
 </p>
 
