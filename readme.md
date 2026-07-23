@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Rust</strong> <code>7 hrs 8 mins</code>,  <strong>Markdown</strong> <code>2 hrs 30 mins</code>,  <strong>Svelte</strong> <code>1 hr 36 mins</code>,  <strong>CSS</strong> <code>47 mins</code>,  <strong>HTML</strong> <code>44 mins</code>,  <strong>YAML</strong> <code>30 mins</code> and <strong>Docker</strong> <code>27 mins</code>
+    last 7 days: <strong>Rust</strong> <code>6 hrs 37 mins</code>,  <strong>Markdown</strong> <code>3 hrs 42 mins</code>,  <strong>Svelte</strong> <code>1 hr 36 mins</code>,  <strong>YAML</strong> <code>48 mins</code>,  <strong>CSS</strong> <code>47 mins</code>,  <strong>HTML</strong> <code>44 mins</code> and <strong>Docker</strong> <code>27 mins</code>
   </div>
 </p>
 
