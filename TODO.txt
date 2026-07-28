@@ -1,0 +1,19 @@
+Feature Requirements:
+- Generate a README.md from a given template file
+> NOTE: Old repo used the `tera` crate for this.
+- Include support for external data pulling
+> NOTE: Old repo just queried reqwest
+- Include functions that can generate ascii progressbars and whatevs
+
+Things we're going to do differently:
+
+This implementation's goal is going to be to generate a binary which takes
+command line args and just spits out the generated readme as plaintext.
+
+When the repository's code is changed (e.g., /src, cargo.lock or cargo.toml) we
+should build a new binary and push it to releases.
+> NOTE: It's really important that we do not generate a new release when the actions runner
+generates the new readme for the repo and pushes it. (Maybe filtering out bot actions is good enough)
+
+Then, we just set up a simple cron job than runs the binary and writes 
+the output to readme.md, and the pushes and commits the changes.
