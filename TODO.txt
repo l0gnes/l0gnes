@@ -17,3 +17,9 @@ generates the new readme for the repo and pushes it. (Maybe filtering out bot ac
 
 Then, we just set up a simple cron job than runs the binary and writes 
 the output to readme.md, and the pushes and commits the changes.
+
+---- 
+
+Weird dependency problems
+- circular dependencies among plugins
+- load plugins in an order so that dependencies are respected
