@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Rust</strong> <code>4 hrs 56 mins</code>,  <strong>Svelte</strong> <code>1 hr 53 mins</code>,  <strong>YAML</strong> <code>44 mins</code> and <strong>TOML</strong> <code>27 mins</code>
+    last 7 days: <strong>Rust</strong> <code>5 hrs 36 mins</code>,  <strong>Svelte</strong> <code>2 hrs 10 mins</code>,  <strong>YAML</strong> <code>44 mins</code> and <strong>TOML</strong> <code>27 mins</code>
   </div>
 </p>
 
