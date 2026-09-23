@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>Python</strong> <code>2 hrs 25 mins</code> and <strong>TypeScript</strong> <code>30 mins</code>
+    last 7 days: <strong>TypeScript</strong> <code>30 mins</code> and <strong>Python</strong> <code>29 mins</code>
   </div>
 </p>
 
