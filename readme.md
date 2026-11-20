@@ -20,7 +20,7 @@
 
 <p align="center">
   <div style="max-width:32rem">
-    last 7 days: <strong>TypeScript</strong> <code>1 hr 22 mins</code>,  <strong>Markdown</strong> <code>57 mins</code>,  <strong>Bash</strong> <code>29 mins</code>,  <strong>Git Config</strong> <code>29 mins</code> and <strong>Docker</strong> <code>24 mins</code>
+    last 7 days: <strong>TypeScript</strong> <code>58 mins</code>,  <strong>Markdown</strong> <code>45 mins</code>,  <strong>Bash</strong> <code>29 mins</code>,  <strong>Git Config</strong> <code>29 mins</code> and <strong>Docker</strong> <code>24 mins</code>
   </div>
 </p>
 
